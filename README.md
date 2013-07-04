@@ -17,6 +17,7 @@ Install nodejs & npm
 Install grunt (a build tool for nodejs projects) globally
 ```
 npm install -g grunt
+npm install -g jison
 ```
 
 Install the local dependencies under the project itself, these include things

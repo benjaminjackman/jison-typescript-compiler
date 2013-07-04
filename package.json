@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "grunt-contrib-watch": "~0.4.4",
-    "grunt-typescript": "~0.2.0"
+    "grunt-typescript": "~0.2.0",
+    "grunt-shell": "~0.3.0"
   }
 }
